@@ -1,0 +1,5 @@
+#define SELECTED "\033[47;30m"
+#define NOT_SELECTED "\033[0;37m"
+#define RESET "\033[0m"
+#define CLEAR "\033[2J"
+#define RED  "\x1B[31m"
